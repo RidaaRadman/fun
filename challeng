@@ -1,0 +1,8 @@
+
+def add(x,y,z=0):
+ result =x+y+z 
+ return result
+
+
+print(add(2,3,5))
+print(add(2,3))
